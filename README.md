@@ -2,6 +2,21 @@
 
   ## Projects
 
+  ### [EDI Workbench](https://github.com/IPerception/EDI-Workbench) &nbsp; ![GitHub release](https://img.shields.io/github/v/release/IPerception/EDI-Workbench)
+  > Browser workbench for healthcare EDI (X12)
+
+  Reads any X12 interchange — decodes each segment, recovers the loop nesting, and
+  flattens 837P claims into a table. Turns production files into safe test data.
+  Opens from a single `.html` file; nothing leaves your machine.
+
+  **Stack:**
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+  ---
+
   ### [Kavach](https://github.com/IPerception/kavach-vault) &nbsp; ![GitHub release](https://img.shields.io/github/v/release/IPerception/kavach-vault)
   > Local-first personal password manager for Windows
 
